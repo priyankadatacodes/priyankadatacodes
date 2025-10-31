@@ -11,7 +11,7 @@
 ## 🎯 About Me
 
 * I am a fresher in **Data Analytics**, passionate about turning messy datasets into clear, actionable insights.
-* Strong foundation in **Python**, **SQL**, **Excel**, and **Power BI**. Comfortable with exploratory data analysis, visualization, and basic predictive modeling.
+* Strong foundation in **Python**, **SQL**, **Excel**, and **Power BI**, **R**, **Tableau**,**ML**, **AI**. Comfortable with exploratory data analysis, visualization, and basic predictive modeling.
 * Looking for internship/entry-level roles to apply data skills and grow in a real-world analytics team.
 
 ## 🧠 Technical Skills & Tools
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-217346?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,58 +47,43 @@
 
 ## 🔧 Skills Summary
 
-* **Languages & Tools:** Python (pandas, numpy, matplotlib), SQL, Power BI, Advanced Excel, Git, VS Code
+* **Languages & Tools:** Python (pandas, numpy, matplotlib), SQL, Power BI, Advanced Excel, Git, VS Code,R
 * **Data Skills:** Data cleaning, EDA, Data visualization, Basic statistics, Time series overview, RFM & cohort analysis concepts
-* **Other:** Basic knowledge of SEO/Google Analytics, comfortable with storyboarding insights for stakeholders
+* **Other:** Knowledge of SEO/Google Analytics, comfortable with storyboarding insights for stakeholders
 
 ## 🚀 What I Build
 
 * **End-to-end analytics projects:** data ingestion → cleaning → EDA → visualization → business insights
-* **Sample project ideas (ready to fork & reproduce):**
+* **Sample projects:**
 
-  * E-commerce Sales Analysis (RFM + Cohort + Sales Forecast)
   * Customer Churn Exploration (SQL + Python + Power BI Dashboard)
-  * Social Media Growth Report (engagement metrics + visual storytelling)
+  * Superstore Sales Analysis Dashboard (Trends + Sales Forecast)
 
 ## 📂 Featured Projects
 
-> Replace `your-github-username` and project names with your own repo links.
+> Replace `priyankadatacodes` and project names with your own repo links.
 
-* [E-commerce Sales Dashboard](https://github.com/your-github-username/ecommerce-sales-dashboard) — RFM analysis, sales trends, Power BI report.
-* [Customer Churn SQL Project](https://github.com/your-github-username/customer-churn-sql) — 40+ SQL queries for churn analysis and insights.
-* [Streamlit Property Price Predictor](https://github.com/your-github-username/property-price-prediction) — Streamlit app for quick model demo.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub streak" />
-</p>
-
+* [Customer Churn Project](https://github.com/priyankadatacodes/telecom-customer-churn-prediction) — 40+ SQL queries for churn analysis and insights.
+* [Superstore Sales Dashboard](https://github.com/priyankadatacodes/superstore-sales-analysis-powerbi) — sales trends, Power BI report.
+  
 ## ✨ Achievements & Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI%20Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Advanced%20Excel%20Certified-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Analytics%20Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science%20Learner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Learner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://[https://www.linkedin.com/in/priyankalakra006/]" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" title="Email" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" title="Instagram" />
   </a>
 </p>
 
 ---
-
-✨ *This version now includes animated badges, tool icons, and colored highlights for a modern, data analyst-friendly GitHub profile!*
 
