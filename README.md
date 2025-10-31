@@ -1,7 +1,7 @@
 # Hi there, I'm Priyanka Lakra 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=600&lines=Fresher+Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+raw+data+into+actionable+insights;Always+learning+%26+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=600&lines=Fresher+Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+R;Turning+raw+data+into+actionable+insights;Always+learning+%26+building" alt="Typing SVG" />
 </p>
 
 ---
