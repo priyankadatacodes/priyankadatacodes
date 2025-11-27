@@ -11,7 +11,7 @@
 I am a **Data Analyst** with hands-on experience in **Python, SQL, Power BI, Tableau, R, and Excel**, focused on extracting insights and solving real business problems.  
 I love working with data — cleaning, analyzing, visualizing, and turning it into **actionable insights** for decision-making.
 
-I am actively looking for **Data Analyst / Business Analyst internships or full-time roles** in MNCs where I can contribute and grow.
+I am actively looking for **Data Analyst / Business Analyst internships or full-time roles** in an organization where I can contribute and grow.
 
 ---
 
