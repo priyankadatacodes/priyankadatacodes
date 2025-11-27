@@ -61,8 +61,6 @@
 
 ## 📂 Featured Projects
 
-> Replace `priyankadatacodes` and project names with your own repo links.
-
 * [Customer Churn Project](https://github.com/priyankadatacodes/telecom-customer-churn-prediction) — 40+ SQL queries for churn analysis and insights.
 * [Superstore Sales Dashboard](https://github.com/priyankadatacodes/superstore-sales-analysis-powerbi) — sales trends, Power BI report.
   
