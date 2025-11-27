@@ -58,17 +58,6 @@ I am actively looking for **Data Analyst / Business Analyst internships or full-
 📌 Forecasting & business recommendations  
 🔗 GitHub: *[View Project](https://github.com/priyankadatacodes/superstore-sales-analysis-powerbi)*  
 
----
-
-### 🔹 Social Media Engagement Analytics
-📌 Google Analytics + Python + Visualization  
-📌 Patterns in impressions, reach, engagement & user behaviour  
-
----
-
-### 🔹 Fake Account Detection (ML + Analytics)
-📌 Classification + anomaly detection  
-📌 Actionable insights for platform safety  
 
 ---
 
