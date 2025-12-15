@@ -34,15 +34,15 @@ support data-driven decision-making.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="46" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="46" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" width="46" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="46" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/seaborn.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@main/PNG/Power-BI.png" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/github/explore@main/topics/tableau/tableau.png" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/github/explore@main/topics/excel/excel.png" width="46" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" />
 </p>
+
 
 ---
 
