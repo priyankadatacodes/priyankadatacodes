@@ -11,7 +11,20 @@
 I am a **Data Analyst** with hands-on experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights and solving real business problems.  
 I love working with data — cleaning, analyzing, visualizing, and turning it into **actionable insights** for decision-making.
 
-I am actively looking for **Data Analyst / Business Analyst full-time roles** in an organization where I can contribute and grow.
+I enjoy working with data end to end — from cleaning and exploring raw datasets
+to building dashboards and delivering clear, actionable business insights that
+support data-driven decision-making.
+
+<p align="center">
+  <img src="images/data-analyst-girl-animated.gif"
+       alt="Animated Data Analyst Illustration"
+       width="420"/>
+</p>
+
+<p align="center">
+  <em>Analyzing data • Building dashboards • Creating business insights</em>
+</p>
+
 
 ---
 
@@ -43,21 +56,13 @@ I am actively looking for **Data Analyst / Business Analyst full-time roles** in
 - **Soft Skills:** Problem-solving, documentation, stakeholder communication  
 
 ---
-
 ## 🚀 Projects That Demonstrate My Skills
 
-### 🔹 Customer Churn Analytics (SQL + Python + Power BI)
-📌 In-depth SQL analysis with 40+ queries  
-📌 Identified churn patterns, retention KPIs, demographics & behavior  
-🔗 GitHub: *[View Project](https://github.com/priyankadatacodes/telecom-customer-churn-prediction)*  
+A curated collection of data analytics projects showcasing real-world problem solving,
+business insights, and dashboards.
 
----
-
-### 🔹 Superstore Sales Dashboard (Power BI)
-📌 Sales KPIs, profit trends, regional breakdowns  
-📌 Forecasting & business recommendations  
-🔗 GitHub: *[View Project](https://github.com/priyankadatacodes/superstore-sales-analysis-powerbi)*  
-
+🌐 **Portfolio:** https://priyankadatacodes.github.io/  
+📂 **All projects (GitHub + Kaggle):** https://github.com/priyankadatacodes
 
 ---
 
