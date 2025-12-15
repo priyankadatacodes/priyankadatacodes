@@ -62,7 +62,7 @@ A curated collection of data analytics projects showcasing real-world problem so
 business insights, and dashboards.
 
 🌐 **Portfolio:** https://priyankadatacodes.github.io/  
-📂 **All projects (GitHub + Kaggle):** https://github.com/priyankadatacodes
+📂 **All projects (GitHub + Kaggle):** https://github.com/priyankadatacodes/priyankadatacodes.github.io/blob/main/README.md
 
 ---
 
