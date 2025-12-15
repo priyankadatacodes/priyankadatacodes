@@ -16,13 +16,11 @@ to building dashboards and delivering clear, actionable business insights that
 support data-driven decision-making.
 
 <p align="center">
-  <img src="images/data-analyst-girl-animated.gif"
-       alt="Animated Data Analyst Illustration"
-       width="420"/>
-</p>
-
-<p align="center">
-  <em>Analyzing data • Building dashboards • Creating business insights</em>
+  <img 
+    src="https://raw.githubusercontent.com/priyankadatacodes/priyankadatacodes/main/images/data-analyst-girl-animated.gif"
+    alt="Animated Data Analyst Illustration"
+    width="420"
+  />
 </p>
 
 
