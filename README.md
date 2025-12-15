@@ -14,14 +14,14 @@ I love working with data — cleaning, analyzing, visualizing, and turning it in
 I enjoy working with data end to end — from cleaning and exploring raw datasets
 to building dashboards and delivering clear, actionable business insights that
 support data-driven decision-making.
-
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/priyankadatacodes/priyankadatacodes/main/pri_data-analyst-girl-animated.gif"
+    src="https://raw.githubusercontent.com/priyankadatacodes/priyankadatacodes/main/data-analyst-girl-animated.gif.gif"
     alt="Animated Data Analyst Illustration"
     width="420"
   />
 </p>
+
 
 
 ---
