@@ -18,7 +18,7 @@ support data-driven decision-making.
   <img 
     src="https://raw.githubusercontent.com/priyankadatacodes/priyankadatacodes/main/data-analyst-girl-animated.gif.gif"
     alt="Animated Data Analyst Illustration"
-    width="420"
+    style="max-width:100%; height:auto;"
   />
 </p>
 
