@@ -61,8 +61,8 @@ support data-driven decision-making.
 A curated collection of data analytics projects showcasing real-world problem solving,
 business insights, and dashboards.
 
-🌐 **Projects Portfolio:** https://priyankadatacodes.github.io/
-📂 **All projects (GitHub + Kaggle):** https://github.com/priyankadatacodes/priyankadatacodes.github.io/blob/main/README.md
+📂 **All projects (GitHub + Kaggle):** 
+https://github.com/priyankadatacodes/priyankadatacodes.github.io/blob/main/README.md
 
 ---
 
