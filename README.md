@@ -31,19 +31,31 @@ support data-driven decision-making.
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-2F6DB3?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-3C6E71?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-5A8F7B?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-6C757D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-495057?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F9C74F?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-EE6C4D?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-2D6A4F?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F4A261?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-3A86FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Core Programming & Analytics -->
+  <img src="https://img.shields.io/badge/Python-FFB703?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/SQL-219EBC?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-2A9D8F?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- Data Analysis Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-6A4C93?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-8AC926?style=for-the-badge&logo=numpy&logoColor=000000" />
+  <img src="https://img.shields.io/badge/EDA-FFD166?style=for-the-badge&logoColor=000000" />
+
+  <!-- Visualization & BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F77F00?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Tableau-E63946?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-577590?style=for-the-badge&logoColor=white" />
+
+  <!-- Analytics Concepts -->
+  <img src="https://img.shields.io/badge/Funnel%20Analysis-8338EC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/KPI%20Analysis-3A86FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-06D6A0?style=for-the-badge&logoColor=000000" />
+
+  <!-- Tools & Workflow -->
+  <img src="https://img.shields.io/badge/Jupyter-F48C06?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 
 ---
