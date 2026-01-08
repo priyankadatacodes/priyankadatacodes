@@ -68,12 +68,12 @@ https://github.com/priyankadatacodes/priyankadatacodes.github.io/blob/main/READM
 
 ## 🏅 Certifications & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI%20Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL%20Certified-005C84?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Advanced%20Excel%20Certified-217346?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Analytics-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Learner-EF5B25?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Data%20Science%20with%20AI-4B8BBE?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Business%20Analytics%20with%20AI-FF6F00?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Power%20BI-2F6DB3?style=for-the-badge&logo=powerbi&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge" /> 
 </p>
 
 ---
