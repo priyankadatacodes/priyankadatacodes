@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Priyanka Lakra  
-### Data Analyst | SQL | Python | Power BI | Excel | Tableau
+### Data Analytics | SQL | Python | Power BI | Excel | Tableau
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=700&lines=Data+Analyst+Skilled+in+SQL%2C+Python%2C+Power+BI;Transforming+Data+into+Clear+Business+Insights;Analytical+Mindset+%7C+Detail-Oriented+%7C+Problem+Solver;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=700&lines=Data+Analytics+Skilled+in+SQL%2C+Python%2C+Power+BI;Transforming+Data+into+Clear+Business+Insights;Analytical+Mindset+%7C+Detail-Oriented+%7C+Problem+Solver;" />
 </p>
 
 ---
 
 ## 🎯 About Me  
-I am a **Data Analyst** with hands-on experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights and solving real business problems.  
+I am a **Data Analytics Fresher** with hands-on experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights and solving real business problems.  
 I love working with data — cleaning, analyzing, visualizing, and turning it into **actionable insights** for decision-making.
 
 I enjoy working with data end to end — from cleaning and exploring raw datasets
